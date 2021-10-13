@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.dara.supermarket.supermarche_abc">
    <application
-        android:label="supermarche_abc"
-        android:icon="@mipmap/ic_launcher">
+        android:label="Supermarché Abc"
+        android:icon="@mipmap/ic_launcher_round">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"

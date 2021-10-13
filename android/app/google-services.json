@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "810834112153",
+    "project_id": "supermarche-abc",
+    "storage_bucket": "supermarche-abc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810834112153:android:9d1135f177d4c7b7759208",
+        "android_client_info": {
+          "package_name": "com.dara.supermarche_abc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810834112153-e88ik27a4bgilkisbbm541vr2t09qpas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcIOTF59S4Ibt0rTHgyAXEXJBGvdvrrHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810834112153-e88ik27a4bgilkisbbm541vr2t09qpas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
