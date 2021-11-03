@@ -1,0 +1,42 @@
+{
+  "appName": "Supermaché ABC",
+  
+
+  "login": "Login",
+  "loginButton": "SUIVANT",
+  "register": "S'inscrire",
+  "registerButton": "ENREGISTRER",
+  "welcome": "BIENVENUE",
+
+  "username": "Nom d'utilisateur",
+  "incorrectUsername": "Nom incorrect",
+  "usernameRequired": "Nom d'utilisateur requis",
+  "minCaractersUsername": "Doit contenir au moins 5 charactères",
+
+  "email": "Email",
+  "emailRequired": "Email requis",
+
+  "incorrectEntry": "Entrée incorrecte",
+  "incorrectEntryLogin": "Informations incorrectes",
+
+  "password": "Mot de passe",
+  "passwordRequired": "Mot de passe requis",
+  "minCaractersPassword": "Doit contenir au moins 8 charactères",
+
+  "noInternetAccess": "Echec. Aucun accès internet",
+  "alreadyHaveAccount": "Vous avez déjà un compte?  ",
+  "lettersOnly": "Des lettres uniquement",
+
+  "totalBalance": "Solde Total",
+  "validatePurchaseDialogTitle": "Valider l'achat du client",
+  "incorrectAmount": "Montant incorrect",
+  "validatePurchaseDialogSubtitle": "Entrez le montant total à payer",
+  "invalidNumber": "Entrez un nombre valide",
+
+  "toScan": "Scanner",
+  "scanQr": "Scanner le code QR",
+  "scanCustomerQr": "Scanner le code QR de l'utilisateur",
+  "showQRCode": "Afficher votre code QR",
+  "qrCodeDialogTitle": "Votre code QR",
+  "permissionDenied": "Accès refusé"
+}

@@ -1,0 +1,42 @@
+{
+  "appName": "ABC Supermarket",
+
+
+  "login": "Login",
+  "loginButton": "NEXT",
+  "register": "Register",
+  "registerButton": "SIGN UP",
+  "welcome": "WELCOME",
+
+  "username": "Username",
+  "incorrectUsername": "Incorrect username",
+  "usernameRequired": "Username required",
+  "minCaractersUsername": "Must contain at least 5 characters",
+
+  "email": "Email",
+  "emailRequired": "Email required",
+
+  "incorrectEntry": "Incorrect input",
+  "incorrectEntryLogin": "Incorrect information",
+
+  "password": "Password",
+  "passwordRequired": "Password required",
+  "minCaractersPassword": "Must contain at least 8 characters",
+
+  "noInternetAccess": "Failure. No internet access",
+  "alreadyHaveAccount": "Already have an account?  ",
+  "lettersOnly": "Letters only",
+
+  "totalBalance": "Total balance",
+  "validatePurchaseDialogTitle": "Validate customer purchase",
+  "incorrectAmount": "Incorrect amount",
+  "validatePurchaseDialogSubtitle": "Enter the amount to pay",
+  "invalidNumber": "Enter a valid number",
+
+  "toScan": "Scan",
+  "scanQr": "Scan the QR code",
+  "scanCustomerQr": "Scan the user's QR code",
+  "showQRCode": "Show your QR code",
+  "qrCodeDialogTitle": "Your QR code",
+  "permissionDenied": "Permission denied"
+}
